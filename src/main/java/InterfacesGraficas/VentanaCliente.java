@@ -71,7 +71,7 @@ public void grabarFichero()
             e.printStackTrace();
         } finally {
            try {
-           // Nuevamente aprovechamos el finally para 
+           // prueba de git hub 
            // asegurarnos que se cierra el fichero.
            if (null != fichero)
               fichero.close();
